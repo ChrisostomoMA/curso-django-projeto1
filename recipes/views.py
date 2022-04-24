@@ -1,4 +1,3 @@
-from django import shortcuts
 from django.shortcuts import render
 
 
